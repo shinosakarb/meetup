@@ -7,4 +7,4 @@ Shinosaka.rbは月１回、大阪市内で開催しています。
 
 * イベント告知: [Shinosaka.rb - Doorkeeper](http://shinosakarb.doorkeeper.jp/)
 
-* 活動履歴: [Histroy]()
+* 活動履歴: [Activity Histroy](https://github.com/shinosakarb/meetup/wiki)
